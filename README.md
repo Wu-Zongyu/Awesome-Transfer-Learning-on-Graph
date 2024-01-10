@@ -1,24 +1,34 @@
-# awesome-domain-adaption-graph
-Paper list about domain adaption on graphs. 
+# awesome-transfer-learning-graph
+Paper list about transfer learning on graphs. 
 
 **Note:** This repo records papers for personal needs. If you find I missed some important and exciting work, it is welcome to let me know through issues! 
 
-
-
-
 ## Table of Contents 
 - [Survey](#survey)
-- [Domain Adaption on Homogeneous Graph](#Domain Adaption on Homogeneous Graph)
-- [Domain Adaption on Heterogeneous Graph](#Domain Adaption on Heterogeneous Graph)
+- [Transfer Learning on Homogeneous Graph](#transfer-Learning-on-homogeneous-graph)
+- [Transfer Learning on Heterogeneous Graph](#transfer-Learning-on-heterogeneous-graph)
 
 ## Survey
-- Towards Data-centric Graph Machine Learning: Review and Outlook.
-  [[pdf]](https://arxiv.org/pdf/2309.10979.pdf))
-  - Zheng, Xin, et al. *Arxiv*2023.
+- [*Arxiv*'2023] Towards Data-centric Graph Machine Learning: Review and Outlook. [[pdf]](https://arxiv.org/pdf/2309.10979.pdf)
 
-## Domain Adaption on Homogeneous Graph
+## Transfer Learning on Homogeneous Graph
+- [IJCAI'2019] DANE: Domain Adaptive Network Embedding. [[pdf]](https://arxiv.org/pdf/1906.00684)
+- [WWW'2020] Unsupervised Domain Adaptive Graph Convolutional Networks. [[pdf]](https://shiruipan.github.io/publication/www-2020-wu/www-2020-wu.pdf)
+- [AAAI'2020] Adversarial Deep Network Embedding for Cross-network Node Classification. [[pdf]]([https://ojs.aaai.org/index.php/AAAI/article/view/5692/5548](https://arxiv.org/pdf/2002.07366.pdf))
+- [ICDM'2020] Openwgl: Open-world graph learning. [[pdf]](https://shiruipan.github.io/publication/icdm-20-wu/icdm-20-wu.pdf)
+- [ICML'2020] Progressive Graph Learning for Open-Set Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2006.12087.pdf)
+- [NeurIPS'2021] Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data [[pdf]](https://arxiv.org/pdf/2108.01099.pdf)
+- [NeurIPS'2021] Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/0dd6049f5fa537d41753be6d37859430-Paper.pdf)
+- [ICML'2023] Structural Re-weighting Improves Graph Domain Adaptation [[pdf]](https://arxiv.org/pdf/2306.03221.pdf)
+- [MM'2023] ALEX: Towards Effective Graph Transfer Learning with Noisy Labels [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612026)
 
-## Domain Adaption on Heterogeneous Graph
+
+
+## Transfer Learning on Heterogeneous Graph
+- [IJCAI'2020] Domain Adaptive Classification on Heterogeneous Information Networks [[pdf]](https://www.ijcai.org/proceedings/2020/0196.pdf)
+- [CIKM'2022] GDA-HIN: A Generalized Domain Adaptive Model across Heterogeneous Information Networks [[pdf]](https://arxiv.org/pdf/2012.05688.pdf) 
+- [NeurIPS'2022] Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks [[pdf]](https://arxiv.org/pdf/2203.02018.pdf)
+
 
 
 
