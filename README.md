@@ -25,15 +25,17 @@ Paper list about transfer learning on graphs.
 - [ICLR'2022] Graph-Relational Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2202.03628.pdf)
 - [ICLR'2023] Graph Domain Adaptation via Theory-Grounded Spectral Regularization. [[pdf]](https://openreview.net/pdf?id=OysfLgrk8mk)
 - [ICML'2023] Structural Re-weighting Improves Graph Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2306.03221.pdf)
+- [CIKM'2023] Improving Graph Domain Adaptation with Network Hierarchy. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3583780.3614928)
 - [MM'2023] ALEX: Towards Effective Graph Transfer Learning with Noisy Labels. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612026)
-- [MM'2023] Universal Domain Adaptive Network Embedding for Node Classification [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3613811)
+- [MM'2023] Universal Domain Adaptive Network Embedding for Node Classification. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3613811)
+- [MM'2023] SA-GDA: Spectral Augmentation for Graph Domain Adaptation. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612264)
 
 
 ## Transfer Learning on Heterogeneous Graph
-- [IJCAI'2020] Domain Adaptive Classification on Heterogeneous Information Networks [[pdf]](https://www.ijcai.org/proceedings/2020/0196.pdf)
-- [CIKM'2022] GDA-HIN: A Generalized Domain Adaptive Model across Heterogeneous Information Networks [[pdf]](https://arxiv.org/pdf/2012.05688.pdf) 
-- [NeurIPS'2022] Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks [[pdf]](https://arxiv.org/pdf/2203.02018.pdf)
-- [KDD'2022] Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer [[pdf]](https://dl.acm.org/doi/abs/10.1145/3534678.3539431)
+- [IJCAI'2020] Domain Adaptive Classification on Heterogeneous Information Networks. [[pdf]](https://www.ijcai.org/proceedings/2020/0196.pdf)
+- [CIKM'2022] GDA-HIN: A Generalized Domain Adaptive Model across Heterogeneous Information Networks. [[pdf]](https://arxiv.org/pdf/2012.05688.pdf) 
+- [NeurIPS'2022] Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks. [[pdf]](https://arxiv.org/pdf/2203.02018.pdf)
+- [KDD'2022] Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3534678.3539431)
 
 
 
