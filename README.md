@@ -1,5 +1,6 @@
 # awesome-transfer-learning-graph
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![GitHub stars](https://img.shields.io/github/stars/wzongyu/awesome-transfer-learning-graph)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)  ![GitHub stars](https://img.shields.io/github/stars/wzongyu/awesome-transfer-learning-graph)  
+
 Paper list about transfer learning on graphs. 
 **Note:** This repo records papers for personal needs. If you find I missed some important and exciting work, it is welcome to let me know through issues! 
 
