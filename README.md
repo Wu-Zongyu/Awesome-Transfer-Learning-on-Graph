@@ -34,7 +34,8 @@ Paper list about transfer learning (mainly domain adaption) on graphs.
 - [KDD'2022] Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3534678.3539431)
 - [NeurIPS'2022] Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks. [[pdf]](https://arxiv.org/pdf/2203.02018.pdf)
 - [CIKM'2022] GDA-HIN: A Generalized Domain Adaptive Model across Heterogeneous Information Networks. [[pdf]](https://arxiv.org/pdf/2012.05688.pdf) 
-- [IJCAI'2020] Domain Adaptive Classification on Heterogeneous Information Networks. [[pdf]](https://www.ijcai.org/proceedings/2020/0196.pdf)
+- [IJCAI'2020] Domain Adaptive Classification on Heterogeneous Information Networks. [[pdf]](https://www.ijcai.org/proceedings/2020/0196.pdf)[[code]](https://github.com/PKUterran/MuSDAC)
+  - Yang, S., Song, G., Jin, Y., & Du, L.
 
 
 
