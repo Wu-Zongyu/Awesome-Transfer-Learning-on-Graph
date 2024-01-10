@@ -14,7 +14,7 @@ Paper list about transfer learning on graphs.
 ## Transfer Learning on Homogeneous Graph
 - [IJCAI'2019] DANE: Domain Adaptive Network Embedding. [[pdf]](https://arxiv.org/pdf/1906.00684)
 - [WWW'2020] Unsupervised Domain Adaptive Graph Convolutional Networks. [[pdf]](https://shiruipan.github.io/publication/www-2020-wu/www-2020-wu.pdf)
-- [AAAI'2020] Adversarial Deep Network Embedding for Cross-network Node Classification. [[pdf]]([https://ojs.aaai.org/index.php/AAAI/article/view/5692/5548](https://arxiv.org/pdf/2002.07366.pdf)
+- [AAAI'2020] Adversarial Deep Network Embedding for Cross-network Node Classification. [[pdf]](https://arxiv.org/pdf/2002.07366.pdf)
 - [ICDM'2020] Openwgl: Open-world graph learning. [[pdf]](https://shiruipan.github.io/publication/icdm-20-wu/icdm-20-wu.pdf)
 - [ICML'2020] Progressive Graph Learning for Open-Set Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2006.12087.pdf)
 - [NeurIPS'2021] Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data. [[pdf]](https://arxiv.org/pdf/2108.01099.pdf)
