@@ -17,11 +17,14 @@ Paper list about transfer learning on graphs.
 - [AAAI'2020] Adversarial Deep Network Embedding for Cross-network Node Classification. [[pdf]]([https://ojs.aaai.org/index.php/AAAI/article/view/5692/5548](https://arxiv.org/pdf/2002.07366.pdf))
 - [ICDM'2020] Openwgl: Open-world graph learning. [[pdf]](https://shiruipan.github.io/publication/icdm-20-wu/icdm-20-wu.pdf)
 - [ICML'2020] Progressive Graph Learning for Open-Set Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2006.12087.pdf)
-- [NeurIPS'2021] Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data [[pdf]](https://arxiv.org/pdf/2108.01099.pdf)
-- [NeurIPS'2021] Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/0dd6049f5fa537d41753be6d37859430-Paper.pdf)
-- [ICML'2023] Structural Re-weighting Improves Graph Domain Adaptation [[pdf]](https://arxiv.org/pdf/2306.03221.pdf)
-- [MM'2023] ALEX: Towards Effective Graph Transfer Learning with Noisy Labels [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612026)
-
+- [NeurIPS'2021] Shift-Robust GNNs: Overcoming the Limitations of Localized Graph Training Data. [[pdf]](https://arxiv.org/pdf/2108.01099.pdf)
+- [NeurIPS'2021] Transfer Learning of Graph Neural Networks with Ego-graph Information Maximization. [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/0dd6049f5fa537d41753be6d37859430-Paper.pdf)
+- [KDD'2021] Adaptive Transfer Learning on Graph Neural Networks. [[pdf]](https://arxiv.org/pdf/2107.08765.pdf)
+- [TKDE'2022] Graph Transfer Learning via Adversarial Domain Adaptation with Graph Convolution. [[pdf]](https://arxiv.org/abs/1909.01541)
+- [ICLR'2022] Graph-Relational Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2202.03628.pdf)
+- [ICLR'2023] Graph Domain Adaptation via Theory-Grounded Spectral Regularization. [[pdf]](https://openreview.net/pdf?id=OysfLgrk8mk)
+- [ICML'2023] Structural Re-weighting Improves Graph Domain Adaptation. [[pdf]](https://arxiv.org/pdf/2306.03221.pdf)
+- [MM'2023] ALEX: Towards Effective Graph Transfer Learning with Noisy Labels. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612026)
 
 
 ## Transfer Learning on Heterogeneous Graph
