@@ -13,6 +13,8 @@ Paper list about transfer learning (mainly domain adaption) on graphs.
 - [*Arxiv*'2023] Towards Data-centric Graph Machine Learning: Review and Outlook. [[pdf]](https://arxiv.org/pdf/2309.10979.pdf)
 
 ## Transfer Learning on Homogeneous Graph
+- [WSDM'2025] Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3701551.3703519)
+- [AAAI'2024] Rethinking propagation for unsupervised graph domain adaptation. [[pdf]](https://arxiv.org/pdf/2402.05660)
 - [MM'2023] SA-GDA: Spectral Augmentation for Graph Domain Adaptation. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612264)
 - [MM'2023] Universal Domain Adaptive Network Embedding for Node Classification. [[pdf]](https://dl.acm.org/doi/abs/10.1145/3581783.3613811)
 - [MM'2023] ALEX: Towards Effective Graph Transfer Learning with Noisy Labels. [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3581783.3612026)
